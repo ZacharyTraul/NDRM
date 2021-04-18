@@ -2,7 +2,7 @@ import re
 
 class c28:
 	'''
-	A class of functions defined under the FT8 protocol for certain message fragments to the c28 bit field.
+	A class of functions defined under the FT8 protocol for converting certain message fragments to the c28 bit field.
 	'''
 	NTOKENS = 2063592				#Number of possible tokens
 	MAX22 = 4194304					#Number of possible 22-bit hashes
